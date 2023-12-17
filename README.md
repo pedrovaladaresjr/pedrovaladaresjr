@@ -1,4 +1,12 @@
-<p align="center"><img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/blob/master/assets/header_github.gif" alt="Hi, I'm Pedro a Data Science Student from Brazil 🇧🇷"></p>
+<p align="center">
+  <img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/blob/master/assets/header_github.gif" alt="Hi, I'm Pedro a Data Science Student from Brazil 🇧🇷">
+</p>
+
+<!--
+The header above was a contribution I acquired from the {matyo91}:
+  [https://github.com/matyo91]
+  Great friend!
+-->
 
 
 - 🔭 I’m currently working on **Personal Project of Data**
@@ -27,7 +35,7 @@
 
 <h3 align="left">:paperclip: Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-valadares-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-valadares-junior/" height="30" width="40" /></a>
+<a href="linkedin.com/in/pedro-valadares-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-valadares-junior/" height="30" width="40" /></a>
 <a href="https://kaggle.com/pedro valadares junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedro valadares junior" height="30" width="40" /></a>
 <a href="https://twitter.com/pedro_v_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedro_v_junior" height="30" width="40" /></a>
 </p>
