@@ -35,7 +35,7 @@ The header above was a contribution I acquired from the {matyo91}:
 
 <h3 align="left">:paperclip: Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/pedro-valadares-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-valadares-junior/" height="30" width="40" /></a>
-<a href="https://kaggle.com/pedro valadares junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedro valadares junior" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-valadares-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-valadares-junior/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pedrovaladaresjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedro valadares junior" height="30" width="40" /></a>
 <a href="https://twitter.com/pedro_v_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedro_v_junior" height="30" width="40" /></a>
 </p>
