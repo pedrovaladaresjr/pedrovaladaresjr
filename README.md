@@ -24,11 +24,6 @@ The header above was a contribution I acquired from the {matyo91}:
 </p>
 </details>
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />alt="JupyterNotebook" width="40" height="40"/> </a>
-
-           
-          
-
 <h3 align="left">:bar_chart: Metrics of the Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovaladaresjr&show_icons=true&locale=en&layout=compact" alt="pedrovaladaresjr" /></p>
 
