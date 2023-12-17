@@ -6,6 +6,8 @@
 The header above was a contribution I acquired from the {matyo91}:
   [https://github.com/matyo91]
   Great friend!
+
+  Alguns links úteis no fim da página!
 -->
 
 
@@ -40,3 +42,11 @@ The header above was a contribution I acquired from the {matyo91}:
 <a href="https://www.kaggle.com/pedrovaladaresjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedro valadares junior" height="30" width="40" /></a>
 <a href="https://twitter.com/pedro_v_junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedro_v_junior" height="30" width="40" /></a>
 </p>
+
+<!--
+Links úteis: 
+  https://rahuldkjain.github.io/gh-profile-readme-generator/
+  https://github.com/matyo91/matyo91/blob/main/README.md?plain=1
+  https://devicon.dev/
+  https://ezgif.com/
+-->
