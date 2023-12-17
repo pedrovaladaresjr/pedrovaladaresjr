@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/tree/master/assets/header_github.gif" alt="Hi, I'm Pedro a Data Science Student from Brazil 🇧🇷"></p>
+<p align="center"><img src="github.com/pedrovaladaresjr/pedrovaladaresjr/tree/master/assets/header_github.gif" alt="Hi, I'm Pedro a Data Science Student from Brazil 🇧🇷"></p>
 
 
 - 🔭 I’m currently working on **Personal Project of Data**
