@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A student Data Science from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/raw/main/assets/header-github.gif" alt="Hi, I'm Pedro a Data Science Student from Brazil 🇧🇷">
+</p>
 
 
 - 🔭 I’m currently working on **Personal Project of Data**
