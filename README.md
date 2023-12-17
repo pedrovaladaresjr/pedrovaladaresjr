@@ -29,7 +29,7 @@ The header above was a contribution I acquired from the {matyo91}:
 <h3 align="left">:bar_chart: Github Metrics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovaladaresjr&show_icons=true&locale=en&layout=compact" alt="pedrovaladaresjr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovaladaresjr&show_icons=true&locale=en" alt="pedrovaladaresjr" /></p>
+<p>&nbsp;<img align="center2" src="https://github-readme-stats.vercel.app/api?username=pedrovaladaresjr&show_icons=true&locale=en" alt="pedrovaladaresjr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovaladaresjr&" alt="pedrovaladaresjr" /></p>
 
