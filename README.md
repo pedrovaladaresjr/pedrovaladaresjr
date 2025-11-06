@@ -17,7 +17,7 @@ The header above was a contribution I acquired from the {matyo91}:
 - 💬 Ask me about **Technology, DataScience,**
 - 📫 How to reach me **pvj.valadares@protonmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedro-valadares-junior/](https://www.linkedin.com/in/pedro-valadares-junior/)
-- ⚡ Fun fact **I'm a bassoonist and love Formula 1**
+- ⚡ Fun fact **I'm a bassoonist, Formula 1 and Baseball Fan.**
 
 <details>
   <summary><h3><b>:hammer_and_wrench: Languages and Tools:</b></h3></summary>
