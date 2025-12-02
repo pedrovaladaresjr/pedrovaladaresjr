@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me  
-- 🔭 Currently working on **Personal Data Projects**  
+- 🔭 Currently working on **Data Projects**  
 - 👯 Open to collaborate on **Data Science, Data Engineering Analytics and Statistics**  
 - 👨‍💻 All my repositories are available here: **https://github.com/pedrovaladaresjr?tab=repositories**
 - 💬 Feel free to ask me about **Technology, Baseball, Music, Automobile**
