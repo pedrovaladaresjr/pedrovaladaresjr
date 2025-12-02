@@ -17,9 +17,9 @@
 ---
 
 ## ⚙️ Tech Stack
-<details>
+<!-- <details>
   <summary><b>Click to Expand 🔧</b></summary>
-  <br/>
+  <br/> -->
 
 <p align="center">
 
@@ -52,7 +52,7 @@
 
 </p>
 
-</details>
+<!-- </details> -->
 
 ---
 
