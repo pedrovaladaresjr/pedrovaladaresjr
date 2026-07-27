@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/blob/master/assets/header_github.gif" 
-       alt="Hi, I'm Pedro — Data Science Student from Brazil 🇧🇷">
+       alt="Hi, I'm Pedro — Data Student from Brazil 🇧🇷">
 </p>
 
 ---
