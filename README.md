@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/blob/master/assets/header_github.gif" 
+  <img src="https://github.com/pedrovaladaresjr/pedrovaladaresjr/blob/master/assets/profile-github.gif" 
        alt="Hi, I'm Pedro — Data Student from Brazil 🇧🇷">
 </p>
 
